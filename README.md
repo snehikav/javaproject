@@ -1,15 +1,22 @@
 # javaproject
 
-
 Software Used:
+
 Languages : Java,
+
 Web Technologies : JSP, Servlets
+
 Application Server : Tomcat
+
 Scripting : HTML,XML, CSS, Javascript
+
 Development framework : Spring MVC
+
 Database : MySQL
+
 IDE : Spring Tool Suite, Postman
 
+Overview:
 
 The web based “flight reservation system” project is an attempt to design the basic concepts of
 flight reservation system. The system helps the user to find & book the flight from different cities
